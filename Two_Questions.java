@@ -7,7 +7,7 @@ public class Two_Questions {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String answer = "";
+		String answer1 = "";
 		
 		String q1 = JOptionPane.showInputDialog("Is it animal, vegetable, or mineral?");
 		
@@ -21,17 +21,17 @@ public class Two_Questions {
 				
 				System.out.println("Question 2) Is it bigger than a breadbox?" + "\n" + q2);
 				
-				answer = "moose";
+				answer1 = "moose";
 				
-				System.out.println("My guess is that you are thinking of a " + answer);
+				System.out.println("My guess is that you are thinking of a " + answer1);
 				
 			} else {
 				
 				System.out.println("Question 2) Is it bigger than a breadbox?" + "\n" + q2);
 				
-				answer = "squirrel";
+				answer1 = "squirrel";
 				
-				System.out.println("My guess is that you are thinking of a " + answer);
+				System.out.println("My guess is that you are thinking of a " + answer1);
 				
 				
 			}
@@ -46,17 +46,17 @@ public class Two_Questions {
 				
 				System.out.println("Question 2) Is it bigger than a breadbox?" + "\n" + q2);
 				
-				answer = "Camaro";
+				answer1 = "Camaro";
 				
-				System.out.println("My guess is that you are thinking of a " + answer);
+				System.out.println("My guess is that you are thinking of a " + answer1);
 				
 			} else {
 				
 				System.out.println("Question 2) Is it bigger than a breadbox?" + "\n" + q2);
 				
-				answer = "paper clip";
+				answer1 = "paper clip";
 				
-				System.out.println("My guess is that you are thinking of a " + answer);
+				System.out.println("My guess is that you are thinking of a " + answer1);
 				
 				
 			}
@@ -71,17 +71,17 @@ public class Two_Questions {
 				
 				System.out.println("Question 2) Is it bigger than a breadbox?" + "\n" + q2);
 				
-				answer = "watermelon";
+				answer1 = "watermelon";
 				
-				System.out.println("My guess is that you are thinking of a " + answer);
+				System.out.println("My guess is that you are thinking of a " + answer1);
 				
 			} else {
 				
 				System.out.println("Question 2) Is it bigger than a breadbox?" + "\n" + q2);
 				
-				answer = "carrot";
+				answer1 = "carrot";
 				
-				System.out.println("My guess is that you are thinking of a " + answer);
+				System.out.println("My guess is that you are thinking of a " + answer1);
 				
 				
 			}
